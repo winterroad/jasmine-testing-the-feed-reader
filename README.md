@@ -4,7 +4,7 @@ This is 5th project of Udacity FEND web developer nanodegree. The project includ
 
 ## How to run the project
 
-Running the project on your own computer.
+Running the project on your own computer:
 
 1. Clone the repository by writing following to command line:
 
